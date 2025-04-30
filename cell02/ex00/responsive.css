@@ -1,0 +1,13 @@
+table{
+    border: 1;
+    width: 100%;
+    padding: 100 ;
+    border-collapse:collapse;
+    height: 99vh;
+}
+th.first{
+    background: goldenrod;
+}
+th.second{
+    background:rgb(220, 146, 49);
+}
