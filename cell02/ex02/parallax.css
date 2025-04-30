@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body{
+    height: 100%;
+}
+
+#first{
+    background-image: url('dog1.jpg');
+    min-height: 100vh;
+    background-attachment: scroll;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding: 50vh;
+}
+
+#second{
+    background-color: black;
+    min-height: 40vh;
+    background-attachment: scroll;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    padding: 30vh;
+}
+
+#third{
+    background-image: url('dog3.jpg');
+    min-height: 100vh;
+    background-attachment: scroll;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    padding: 50vh;
+}
